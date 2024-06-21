@@ -1,7 +1,7 @@
 package com.for_loop_Conditions;
 
 public class Demo03_SumofNaturalNos {
-
+// 1 to 1000
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int sum = 0;
