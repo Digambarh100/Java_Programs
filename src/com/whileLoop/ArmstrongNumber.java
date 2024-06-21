@@ -7,7 +7,6 @@ public class ArmstrongNumber {
 		// Input: 153 , Output: Yes
 		// 153 is an Armstrong number. ==> (1*1*1) + (5*5*5) + (3*3*3) = 153
 		
-		
 		int sum = 0, res, temp;
 		int num = 153;// It is the number to check Armstrong
 		temp = num;
