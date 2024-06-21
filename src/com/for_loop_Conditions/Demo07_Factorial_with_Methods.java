@@ -9,6 +9,7 @@ public class Demo07_Factorial_with_Methods {
 	}
 
 	static int factorial(int number) {
+		
 		int facto = 1;
 		for (int i = 1; i <= number; i++) {
 			facto *= i;// facto=facto*i;
