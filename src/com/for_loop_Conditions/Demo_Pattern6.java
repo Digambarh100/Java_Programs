@@ -1,6 +1,17 @@
 package com.for_loop_Conditions;
 
 public class Demo_Pattern6 {
+	
+	/*///////
+	 
+	*********
+	 *******
+	  *****
+	   ***
+	    *
+	    
+	   //// */
+
 
 	public static void main(String[] args) {
 

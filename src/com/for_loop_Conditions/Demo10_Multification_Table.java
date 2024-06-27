@@ -6,7 +6,7 @@ public class Demo10_Multification_Table {
 		int i;
 		int j;
 		for (i = 1; i <= N; i++) { // 1 2
-			for (j = 1; j <= 10; j++) {
+			for (j = 1; j <= 20; j++) {
 				System.out.printf("%5d ", i * j); // 1*1 1*2 1*3
 			}
 			System.out.println();
@@ -14,8 +14,6 @@ public class Demo10_Multification_Table {
 	}
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		int N = 10;
 		multificationTable(10);
 
 	}

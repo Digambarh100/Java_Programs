@@ -8,14 +8,13 @@ public class Do_WhileDemo {
 		// TODO Auto-generated method stub
 
 		int option = 0;
-
 		System.out.println("Simple Calculator");
 		do {
-			System.out.println("Enter option for Calculation");
+			System.out.println("Enter option for Calculation :");
 			Scanner sc = new Scanner(System.in);
 
 			option = sc.nextInt();
-		} while (option > 8);
+		} while (option > 7);
 
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter Nos : ");
